@@ -1,0 +1,16 @@
+{
+  "name": "tool-aurixflasher",
+  "version": "1.0.0",
+  "description": "Tool for flashing Aurix device including in Aurix Development Studio Ide",
+  "keywords": [
+    "tools",
+    "uploader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanjqh/tool-aurixflasher"
+  },
+  "system": [
+    "windows_amd64"
+  ]
+}
